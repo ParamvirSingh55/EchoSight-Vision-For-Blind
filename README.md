@@ -18,6 +18,7 @@ This project introduces a revolutionary IoT-based smart blind stick designed to 
 
 **Hardware Components:** 
                         ESP32 microcontroller, ultrasonic sensors, soil moisture sensor, camera, buzzer, and speaker.
+
 **Software:** 
              YOLOv3 object detection model, custom firmware for the ESP32, Telegram bot integration,Arduino IDE and Embedded C, Python.
 
@@ -28,8 +29,11 @@ This project introduces a revolutionary IoT-based smart blind stick designed to 
 **Benefits:**
 
 **Enhanced Safety**: The smart blind stick significantly improves the safety and mobility of visually impaired individuals by providing timely information about their surroundings.
+
 **Increased Independence**: By enabling users to navigate their environment more confidently, the device promotes a greater sense of independence and self-sufficiency.
+
 **Environmental Awareness**: The soil moisture sensor empowers users to make informed decisions about their interactions with the environment, such as gardening or avoiding potentially hazardous areas.
+
 **Social Connection**: The integration with Telegram allows users to share their experiences and connect with others, fostering a sense of community and support.
 
 **Future Work:**
