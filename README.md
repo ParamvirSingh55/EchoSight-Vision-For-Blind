@@ -16,3 +16,5 @@ refinement of the device, ensuring its usability and effectiveness in diverse en
 scenarios. Ultimately, this innovative solution aims to empower visually impaired users by
 enhancing their mobility, promoting environmental awareness, and fostering greater independence in
 their daily lives.
+
+Research Paper Publish Link - https://ijircce.com/admin/main/storage/app/pdf/uTl4zznb7H4FInG2oSPw1KDaX0JYOcEfT39hCt1a.pdf
