@@ -39,8 +39,11 @@ This project introduces a revolutionary IoT-based smart blind stick designed to 
 **Future Work:**
 
 Explore additional sensor modalities, such as temperature and humidity sensors, to provide more comprehensive environmental information.
+
 Investigate the potential for integrating haptic feedback to enhance the user experience.
+
 Expand the object detection capabilities to include a wider range of objects and environments.
+
 Investigate the feasibility of integrating with other assistive technologies, such as smart home systems.
 
 
