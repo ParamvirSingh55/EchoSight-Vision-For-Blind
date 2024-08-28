@@ -46,13 +46,13 @@ Expand the object detection capabilities to include a wider range of objects and
 
 Investigate the feasibility of integrating with other assistive technologies, such as smart home systems.
 
-**Research Paper Publish Link** - https://ijircce.com/admin/main/storage/app/pdf/uTl4zznb7H4FInG2oSPw1KDaX0JYOcEfT39hCt1a.pdf
+**[IJIRCCE] Research Paper Publish Link** - https://ijircce.com/admin/main/storage/app/pdf/uTl4zznb7H4FInG2oSPw1KDaX0JYOcEfT39hCt1a.pdf
 
 **Project Members:**
 
 Samreen Kour - https://github.com/samreenkour
 
-Ranbhir Singh - 
+Ranbhir Singh - https://github.com/Ranbhir123
 
 Rakshitha B S - https://github.com/rakshithabs0619
 
